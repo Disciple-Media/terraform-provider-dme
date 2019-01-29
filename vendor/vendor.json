@@ -3,6 +3,12 @@
 	"ignore": "appengine test github.com/hashicorp/nomad/",
 	"package": [
 		{
+			"checksumSHA1": "df037yUujYqkTuZmLPZg0+3UgDs=",
+			"path": "github.com/Disciple-Media/dnsmadeeasy",
+			"revision": "7142f8d7552c0942323ef9a0247fdf4f6f10f3d0",
+			"revisionTime": "2019-01-29T14:11:25Z"
+		},
+		{
 			"checksumSHA1": "FIL83loX9V9APvGQIjJpbxq53F0=",
 			"path": "github.com/apparentlymart/go-cidr/cidr",
 			"revision": "7e4b007599d4e2076d9a81be723b3912852dda2c",
@@ -541,13 +547,6 @@
 			"path": "github.com/satori/go.uuid",
 			"revision": "b061729afc07e77a8aa4fad0a2fd840958f1942a",
 			"revisionTime": "2016-09-27T10:08:44Z"
-		},
-		{
-			"checksumSHA1": "8tEiK6vhVXuUbnWME5XNWLgvtSo=",
-			"comment": "v1.1-2-g5578a8c",
-			"path": "github.com/soniah/dnsmadeeasy",
-			"revision": "5578a8c15e33958c61cf7db720b6181af65f4a9e",
-			"revisionTime": "2015-01-08T08:49:52Z"
 		},
 		{
 			"checksumSHA1": "vE43s37+4CJ2CDU6TlOUOYE0K9c=",
